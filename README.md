@@ -1,8 +1,8 @@
 # Hardcover API #
 ## Book Script for Obsidian ##
 ### Setup and Instructions ###
-- This script is meant for integration with Obsidian's QuickAdd plugin and more specifically, its Macro scripting ability, in order to retrieve book information and cover images from Hardcover.
-- OG and Inspiration:
+- This script is meant for integration with Obsidian (more specifically, the QuickAdd plugin, and more specifically, its Macro scripting ability), to retrieve book information and cover images from Hardcover (Fantastic replacement for Good Reads).
+- OG & Inspiration:
   - https://github.com/chhoumann/quickadd
   - https://quickadd.obsidian.guide/docs/Examples/Macro_MovieAndSeriesScript
 - Using this Script:
